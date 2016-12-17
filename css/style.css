@@ -43,6 +43,7 @@ p{
     margin-right: 20%;
     text-align: left;
 }
+
 #download{
     color: white;
     font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
@@ -54,6 +55,10 @@ p{
     position: absolute;
     margin-bottom: 5%;
     margin-top:5px;
+}
+
+#download:hover{
+	color: #00bdbd;
 }
 
 #ja{
