@@ -33,6 +33,10 @@ a{
 ul{
 	list-style-type:none
 }
+
+li{
+	display: inline-block;
+}
 .nadpis{
     text-align: center;
     color: white;
