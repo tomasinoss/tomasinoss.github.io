@@ -26,6 +26,13 @@ p{
     text-transform: capitalize;
 }
 
+a{
+    text-decoration: none;
+}
+
+ul{
+	list-style-type:none
+}
 #nadpis{
     text-align: center;
     color: white;
