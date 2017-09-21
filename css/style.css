@@ -33,7 +33,7 @@ a{
 ul{
 	list-style-type:none
 }
-#nadpis{
+.nadpis{
     text-align: center;
     color: white;
     font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
